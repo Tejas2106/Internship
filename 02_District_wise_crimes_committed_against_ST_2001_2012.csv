@@ -1,4 +1,4 @@
-"STATE/UT","DISTRICT","Year","Murder","Rape","Kidnapping Abduction","Dacoity","Robbery","Arson","Hurt","Protection of Civil Rights (PCR) Act","Prevention of atrocities (POA) Act","Other Crimes Against STs"
+"STATE","DISTRICT","Year","Murder","Rape","Kidnapping Abduction","Dacoity","Robbery","Arson","Hurt","Protection of Civil Rights (PCR) Act","Prevention of atrocities (POA) Act","Other Crimes Against STs"
 "ANDHRA PRADESH","ADILABAD",2001,0,1,2,0,0,0,2,0,0,13
 "ANDHRA PRADESH","ANANTAPUR",2001,0,0,0,0,0,0,7,0,1,6
 "ANDHRA PRADESH","CHITTOOR",2001,0,0,0,0,0,0,2,0,0,0
